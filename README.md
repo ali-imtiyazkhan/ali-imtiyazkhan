@@ -67,11 +67,7 @@ I'm **Imtiyaz Khan**, a passionate **Full Stack Web Developer** who loves buildi
 
 ---
 
-# 🐍 GitHub Contribution Snake  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
