@@ -1,6 +1,4 @@
-<!-- 🔥 AWESOME GITHUB PROFILE README FOR IMTIYAZ KHAN 🔥 -->
 
-<!-- Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Imtiyaz+Khan+👋;Full+Stack+Developer+🚀;MERN+%7C+Next.js+%7C+TypeScript;Problem+Solver+%7C+Tech+Enthusiast" />
 </p>
