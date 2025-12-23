@@ -1,4 +1,3 @@
-# 💫 About Me  
 I'm **Imtiyaz Khan**, a passionate **Full Stack Web Developer** who loves building fast, scalable & modern applications using cutting-edge technologies.  
 
 💡 I enjoy coding, solving problems & making people laugh.  
