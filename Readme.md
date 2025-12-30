@@ -48,23 +48,6 @@ I'm **Imtiyaz Khan**, a passionate **Full Stack Web Developer** who loves buildi
 
 ---
 
-# 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-imtiyazkhan&theme=radical&show_icons=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-imtiyazkhan&theme=radical" height="165" />
-</p>
-
----
-
-
-
----
-
-# 🔥 3D Contribution Graph  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ALI-IMTIYAZKHAN/ALI-IMTIYAZKHAN/output/profile-3d-contrib/profile-green.svg" />
-</p>
 
 ---
 
