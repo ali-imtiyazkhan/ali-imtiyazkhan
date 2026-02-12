@@ -65,15 +65,6 @@ I'm **Imtiyaz Khan**, a passionate **Full Stack Web Developer** who loves buildi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
----
-
-# 📊 GitHub Stats  
-
-![Imtiyaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ali-imtiyazkhan&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-imtiyazkhan&layout=compact&theme=tokyonight)
-
----
 
 # 🧠 DSA & Competitive Programming  
 
