@@ -7,6 +7,11 @@ I'm **Imtiyaz Khan**, a passionate **Full Stack Web Developer** who loves buildi
 🧠 Solving **LeetCode daily** to sharpen problem-solving skills.  
 🚀 Exploring scalable system design & backend architecture.  
 
+<a href="https://imtiyaz-pfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+
 📫 Contact me:  
 **Email:** imtiyaj.codes@gmail.com  
 **Instagram:** https://www.instagram.com/ali._imtiyaz  
@@ -64,6 +69,22 @@ I'm **Imtiyaz Khan**, a passionate **Full Stack Web Developer** who loves buildi
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+## 🔥 Contribution Activity  
+
+[![Imtiyaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ali-imtiyazkhan&theme=tokyo-night)](https://github.com/ali-imtiyazkhan)
+
+
+## 🔥 GitHub Streak  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ali-imtiyazkhan&theme=tokyonight)
+
+
+## 👀 Profile Views  
+
+![Profile Views](https://komarev.com/ghpvc/?username=ali-imtiyazkhan&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 
 # 🧠 DSA & Competitive Programming  
