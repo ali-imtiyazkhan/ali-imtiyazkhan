@@ -126,9 +126,8 @@ const imtiyaz = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ali-imtiyazkhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-imtiyazkhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api?username=ali-imtiyazkhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-imtiyazkhan&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117" width="37%" />
 
 </div>
 
