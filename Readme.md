@@ -31,6 +31,7 @@ const imtiyaz = {
   role      : "Full Stack Web Developer",
   location  : "India 🇮🇳",
   stack     : ["Next.js", "TypeScript", "Prisma", "PostgreSQL", "Docker"],
+  realtime  : ["Socket.io", "WebRTC", "Kafka", "Redis"],
   focus     : ["Scalable Systems", "Backend Architecture", "DevOps"],
   leetcode  : "300+ problems solved · daily grind 🔥",
   funFact   : "I make people laugh while shipping prod-ready code 😂",
@@ -79,6 +80,20 @@ const imtiyaz = {
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb&logoColor=00ED64)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+
+</div>
+
+### 🔴 Real-Time & Messaging
+
+<div align="center">
+
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis PubSub](https://img.shields.io/badge/Redis_Pub%2FSub-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
@@ -156,6 +171,7 @@ const imtiyaz = {
 
 ```
 ⚡ Building scalable backend systems with Node.js + PostgreSQL
+🔴 Real-time apps with Socket.io, WebRTC & Kafka event streams
 🐳 Containerizing apps with Docker & Docker Compose
 ☸️ Learning Kubernetes orchestration
 📐 Improving system design & architecture patterns
