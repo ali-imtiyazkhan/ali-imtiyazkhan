@@ -126,14 +126,23 @@ const imtiyaz = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ali-imtiyazkhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-imtiyazkhan&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117" width="37%" />
+<img src="https://readme-stats-fast.vercel.app/api?username=ali-imtiyazkhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&rank_icon=github" width="49%" />
+
+<img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=ali-imtiyazkhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="37%" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ali-imtiyazkhan&theme=tokyonight&hide_border=true&background=0d1117)
+<img src="https://streak-stats.demolab.com?user=ali-imtiyazkhan&theme=tokyonight&hide_border=true&background=0d1117" />
+
+</div>
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ali-imtiyazkhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 
 </div>
 
