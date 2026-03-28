@@ -138,13 +138,9 @@ const imtiyaz = {
 
 </div>
 
-## 🏆 Achievements
+## 🚀 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ali-imtiyazkhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-imtiyazkhan&theme=tokyo-night&hide_border=true" />
 
 ---
 
