@@ -138,10 +138,6 @@ const imtiyaz = {
 
 </div>
 
-## 🚀 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-imtiyazkhan&theme=tokyo-night&hide_border=true" />
-
 ---
 
 ## 🔥 Contribution Graph
