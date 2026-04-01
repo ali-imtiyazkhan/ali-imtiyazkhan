@@ -146,6 +146,13 @@ const imtiyaz = {
 
 ---
 
+ GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ali-imtiyazkhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-imtiyazkhan&theme=tokyonight&hide_border=true&background=00000000" height="170" /> </div>
+ Contribution Insights
+<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-imtiyazkhan&theme=tokyonight" /> </div>
+ Coding Activity
+<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ali-imtiyazkhan&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ali-imtiyazkhan&theme=tokyonight&utcOffset=5.5" /> </div>
+
 
 <div align="center">
 
