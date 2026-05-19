@@ -154,7 +154,6 @@ const imtiyaz = {
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ali-imtiyazkhan&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ali-imtiyazkhan&layout=compact&theme=github_dark)
 
 </div>
 
