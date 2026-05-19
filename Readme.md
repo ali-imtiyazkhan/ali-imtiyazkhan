@@ -156,6 +156,12 @@ const imtiyaz = {
 
 </div>
 
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-imtiyazkhan&layout=compact&theme=github_dark)
+
+</div>
+
 ---
 
 <div align="center">
