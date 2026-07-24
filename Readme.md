@@ -26,7 +26,7 @@ const imtiyaz = {
   stack     : ["Next.js", "TypeScript", "Prisma", "PostgreSQL", "Docker"],
   realtime  : ["Socket.io", "WebRTC", "Kafka", "Redis"],
   focus     : ["Scalable Systems", "Backend Architecture", "DevOps"],
-  leetcode  : "400+ problems solved · daily grind ",
+  leetcode  : "450+ problems solved · daily grind ",
   funFact   : "I make people laugh while shipping prod-ready code ",
 };
 ```
