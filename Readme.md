@@ -145,15 +145,19 @@ const imtiyaz = {
 </div>
 
 ---
-
-### GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ali-imtiyazkhan&theme=github-dark&hide_border=true" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-imtiyazkhan&theme=github_dark" width="100%"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ali-imtiyazkhan&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ali-imtiyazkhan&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ali-imtiyazkhan&theme=github_dark" width="49%"/>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ali-imtiyazkhan&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ali-imtiyazkhan&theme=github_dark&utcOffset=5.5" width="49%"/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=ali-imtiyazkhan&theme=tokyonight&hide_border=true" height="160"/>
 
 </div>
 
