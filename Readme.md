@@ -155,7 +155,6 @@ const imtiyaz = {
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ali-imtiyazkhan&theme=github_dark" width="49%"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ali-imtiyazkhan&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ali-imtiyazkhan&theme=github_dark&utcOffset=5.5" width="49%"/>
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ali-imtiyazkhan&theme=tokyonight&hide_border=true" height="160"/>
 
