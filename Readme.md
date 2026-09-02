@@ -120,7 +120,7 @@ const imtiyaz = {
 
 |  Achievement |  Detail |
 |:---|:---|
-| LeetCode Problems | 300+ solved |
+| LeetCode Problems | 500+ solved |
 | Daily Practice | Active streak |
 | Focus Areas | Arrays · Trees · DP · Graphs |
 | Goal | Top-tier system design skills |
