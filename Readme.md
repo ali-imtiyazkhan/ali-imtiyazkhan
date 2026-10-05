@@ -1,110 +1,143 @@
 <div align="center">
 
 # Imtiyaz Khan
+
 ### Full Stack Developer · Problem Solver · Builder
+
+Building scalable web applications, real-time systems, and developer-focused products.
 
 <br/>
 
 <a href="https://imtiyaz-pfolio.vercel.app">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-imtiyaz--pfolio.vercel.app-30302e?style=for-the-badge&labelColor=1a1a18&color=30302e" />
+  <img src="https://img.shields.io/badge/Portfolio-30302e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a18" />
 </a>
-&nbsp;
 <a href="mailto:imtiyaj.codes@gmail.com">
-  <img src="https://img.shields.io/badge/📬%20Email%20Me-imtiyaj.codes%40gmail.com-30302e?style=for-the-badge&labelColor=1a1a18&color=30302e" />
+  <img src="https://img.shields.io/badge/Email-30302e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a18" />
+</a>
+<a href="https://github.com/ali-imtiyazkhan">
+  <img src="https://img.shields.io/badge/GitHub-30302e?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a18" />
 </a>
 
 </div>
 
+---
 
-##  Connect With Me
+## 👋 About Me
+
+I'm a **Full Stack Developer** who enjoys turning ideas into working products.
+
+I work across the stack — from building interfaces and APIs to designing databases, real-time systems, and deployment infrastructure.
+
+- 🚀 Building full-stack and real-time applications
+- 🧠 Interested in system design, distributed systems & AI
+- ⚡ I enjoy solving problems and shipping products
+- 🔧 Currently exploring **Go, Rust, Kafka & Kubernetes**
+- 💻 Practicing **Data Structures & Algorithms**
+
+---
+
+## ⚡ Tech Stack
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Frontend
+
+`HTML` · `CSS` · `JavaScript`  
+`TypeScript` · `React` · `Next.js`  
+`Tailwind CSS` · `Redux` · `Framer Motion`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Backend
+
+`Node.js` · `Express.js`  
+`Prisma` · `PostgreSQL` · `MongoDB`  
+`Redis` · `JWT` · `Zod`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔄 Real-Time & Messaging
+
+`Socket.io` · `WebRTC`  
+`Apache Kafka` · `Redis Pub/Sub`
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ DevOps & Infrastructure
+
+`Docker` · `Kubernetes`  
+`Linux` · `Nginx` · `Render`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Languages
+
+`C` · `C++` · `JavaScript` · `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧰 Tools & Workflow
+
+`Git` · `GitHub` · `VS Code`  
+`REST APIs` · `Monorepo` · `Docker Compose`
+
+</td>
+</tr>
+</table>
+
+<a href="https://github.com/ali-imtiyazkhan/codeSync">
+  <img src="https://img.shields.io/badge/View%20Source-30302e?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a18" />
+</a>
+<a href="https://100xcodesync.vercel.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-30302e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a18" />
+</a>
+
+---
+
+## 📊 GitHub
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-30302e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a18)](mailto:imtiyaj.codes@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-30302e?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a18)](https://www.instagram.com/ali._imtiyaz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-30302e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a18)](https://imtiyaz-pfolio.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-30302e?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a18)](https://github.com/ali-imtiyazkhan)
+<img src="https://github-readme-stats.vercel.app/api?username=ali-imtiyazkhan&show_icons=true&hide_border=true&bg_color=1a1a18&title_color=ffffff&text_color=c7c7c7&icon_color=ffffff" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-imtiyazkhan&layout=compact&hide_border=true&bg_color=1a1a18&title_color=ffffff&text_color=c7c7c7" height="170"/>
 
 </div>
 
 ---
 
-##  Tech Stack
-
-###  Frontend
+## 🤝 Connect With Me
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-30302e?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a18)
-![CSS3](https://img.shields.io/badge/CSS3-30302e?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a18)
-![JavaScript](https://img.shields.io/badge/JavaScript-30302e?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=1a1a18)
-![TypeScript](https://img.shields.io/badge/TypeScript-30302e?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a18)
-![React](https://img.shields.io/badge/React-30302e?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1a18)
-![Next.js](https://img.shields.io/badge/Next.js-30302e?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=1a1a18)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-30302e?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8&labelColor=1a1a18)
-![Redux](https://img.shields.io/badge/Redux-30302e?style=for-the-badge&logo=redux&logoColor=white&labelColor=1a1a18)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-30302e?style=for-the-badge&logo=framer&logoColor=white&labelColor=1a1a18)
+<a href="https://github.com/ali-imtiyazkhan">
+  <img src="https://img.shields.io/badge/GitHub-30302e?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a18" />
+</a>
+<a href="https://imtiyaz-pfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-30302e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a18" />
+</a>
+<a href="mailto:imtiyaj.codes@gmail.com">
+  <img src="https://img.shields.io/badge/Email-30302e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a18" />
+</a>
+<a href="https://www.instagram.com/ali._imtiyaz">
+  <img src="https://img.shields.io/badge/Instagram-30302e?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a18" />
+</a>
 
-</div>
+<br/><br/>
 
-###  Backend & Databases
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-30302e?style=for-the-badge&logo=nodedotjs&logoColor=3C873A&labelColor=1a1a18)
-![Express](https://img.shields.io/badge/Express.js-30302e?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1a18)
-![Prisma](https://img.shields.io/badge/Prisma-30302e?style=for-the-badge&logo=prisma&logoColor=white&labelColor=1a1a18)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30302e?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a18)
-![MongoDB](https://img.shields.io/badge/MongoDB-30302e?style=for-the-badge&logo=mongodb&logoColor=00ED64&labelColor=1a1a18)
-![Redis](https://img.shields.io/badge/Redis-30302e?style=for-the-badge&logo=redis&logoColor=white&labelColor=1a1a18)
-![JWT](https://img.shields.io/badge/JWT-30302e?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=1a1a18)
-![Zod](https://img.shields.io/badge/Zod-30302e?style=for-the-badge&logo=zod&logoColor=white&labelColor=1a1a18)
-
-</div>
-
-###  Real-Time & Messaging
-
-<div align="center">
-
-![Socket.io](https://img.shields.io/badge/Socket.io-30302e?style=for-the-badge&logo=socketdotio&logoColor=white&labelColor=1a1a18)
-![WebRTC](https://img.shields.io/badge/WebRTC-30302e?style=for-the-badge&logo=webrtc&logoColor=white&labelColor=1a1a18)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-30302e?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=1a1a18)
-![Redis PubSub](https://img.shields.io/badge/Redis_Pub%2FSub-30302e?style=for-the-badge&logo=redis&logoColor=white&labelColor=1a1a18)
-
-</div>
-
-###  DevOps & Cloud
-
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-30302e?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a18)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-30302e?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1a1a18)
-![Linux](https://img.shields.io/badge/Linux-30302e?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=1a1a18)
-![Nginx](https://img.shields.io/badge/Nginx-30302e?style=for-the-badge&logo=nginx&logoColor=white&labelColor=1a1a18)
-![Render](https://img.shields.io/badge/Render-30302e?style=for-the-badge&logo=render&logoColor=white&labelColor=1a1a18)
-
-</div>
-
-###  Languages
-
-<div align="center">
-
-![C](https://img.shields.io/badge/C-30302e?style=for-the-badge&logo=c&logoColor=white&labelColor=1a1a18)
-![C++](https://img.shields.io/badge/C++-30302e?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1a18)
-![JavaScript](https://img.shields.io/badge/JavaScript-30302e?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=1a1a18)
-![TypeScript](https://img.shields.io/badge/TypeScript-30302e?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a18)
-
-</div>
-
----
-
-
----
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=ali-imtiyazkhan&label=Profile%20Views&color=30302e&style=for-the-badge)](https://github.com/ali-imtiyazkhan)
-
-**⭐ If you like my work, drop a star on my repos — it means a lot!**
+<img src="https://komarev.com/ghpvc/?username=ali-imtiyazkhan&label=Profile%20Views&color=30302e&style=for-the-badge"/>
 
 </div>
