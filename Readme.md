@@ -22,27 +22,27 @@ Building scalable web applications, real-time systems, and developer-focused pro
 
 ---
 
-## 👋 About Me
+##  About Me
 
 I'm a **Full Stack Developer** who enjoys turning ideas into working products.
 
 I work across the stack — from building interfaces and APIs to designing databases, real-time systems, and deployment infrastructure.
 
-- 🚀 Building full-stack and real-time applications
-- 🧠 Interested in system design, distributed systems & AI
-- ⚡ I enjoy solving problems and shipping products
-- 🔧 Currently exploring **Go, Rust, Kafka & Kubernetes**
-- 💻 Practicing **Data Structures & Algorithms**
+-  Building full-stack and real-time applications
+-  Interested in system design, distributed systems & AI
+-  I enjoy solving problems and shipping products
+-  Currently exploring **Go, Rust, Kafka & Kubernetes**
+-  Practicing **Data Structures & Algorithms**
 
 ---
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Frontend
+###  Frontend
 
 `HTML` · `CSS` · `JavaScript`  
 `TypeScript` · `React` · `Next.js`  
@@ -51,7 +51,7 @@ I work across the stack — from building interfaces and APIs to designing datab
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Backend
+###  Backend
 
 `Node.js` · `Express.js`  
 `Prisma` · `PostgreSQL` · `MongoDB`  
@@ -63,7 +63,7 @@ I work across the stack — from building interfaces and APIs to designing datab
 <tr>
 <td width="50%" valign="top">
 
-### 🔄 Real-Time & Messaging
+###  Real-Time & Messaging
 
 `Socket.io` · `WebRTC`  
 `Apache Kafka` · `Redis Pub/Sub`
@@ -71,7 +71,7 @@ I work across the stack — from building interfaces and APIs to designing datab
 </td>
 <td width="50%" valign="top">
 
-### ☁️ DevOps & Infrastructure
+###  DevOps & Infrastructure
 
 `Docker` · `Kubernetes`  
 `Linux` · `Nginx` · `Render`
@@ -82,14 +82,14 @@ I work across the stack — from building interfaces and APIs to designing datab
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Languages
+###  Languages
 
 `C` · `C++` · `JavaScript` · `TypeScript`
 
 </td>
 <td width="50%" valign="top">
 
-### 🧰 Tools & Workflow
+###  Tools & Workflow
 
 `Git` · `GitHub` · `VS Code`  
 `REST APIs` · `Monorepo` · `Docker Compose`
@@ -107,7 +107,7 @@ I work across the stack — from building interfaces and APIs to designing datab
 
 ---
 
-## 📊 GitHub
+##  GitHub
 
 <div align="center">
 
@@ -119,7 +119,7 @@ I work across the stack — from building interfaces and APIs to designing datab
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
