@@ -15,22 +15,6 @@
 
 </div>
 
----
-
-##  About Me
-
-```ts
-const imtiyaz = {
-  role      : "Full Stack Web Developer",
-  location  : "India 🇮🇳",
-  stack     : ["Next.js", "TypeScript", "Prisma", "PostgreSQL", "Docker"],
-  realtime  : ["Socket.io", "WebRTC", "Kafka", "Redis"],
-  focus     : ["Scalable Systems", "Backend Architecture", "DevOps"],
-  leetcode  : "550+ problems solved · daily grind "
-};
-```
-
----
 
 ##  Connect With Me
 
@@ -113,51 +97,6 @@ const imtiyaz = {
 </div>
 
 ---
-
-##  DSA & Competitive Programming
-
-<div align="center">
-
-|  Achievement |  Detail |
-|:---|:---|
-| LeetCode Problems | 500+ solved |
-| Daily Practice | Active streak |
-| Focus Areas | Arrays · Trees · DP · Graphs |
-| Goal | Top-tier system design skills |
-
-</div>
-
----
-
-##  Current Focus
-
-<div align="center">
-
-```
- Building scalable backend systems with Node.js + PostgreSQL
- Real-time apps with Socket.io, WebRTC & Kafka event streams
- Containerizing apps with Docker & Docker Compose
- Learning Kubernetes orchestration
- Improving system design & architecture patterns
-```
-
-</div>
-
----
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-imtiyazkhan&theme=github_dark" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ali-imtiyazkhan&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ali-imtiyazkhan&theme=github_dark" width="49%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ali-imtiyazkhan&theme=github_dark" width="49%"/>
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=ali-imtiyazkhan&theme=tokyonight&hide_border=true" height="160"/>
-
-</div>
 
 
 ---
