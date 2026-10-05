@@ -98,13 +98,6 @@ I work across the stack — from building interfaces and APIs to designing datab
 </tr>
 </table>
 
-<a href="https://github.com/ali-imtiyazkhan/codeSync">
-  <img src="https://img.shields.io/badge/View%20Source-30302e?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a18" />
-</a>
-<a href="https://100xcodesync.vercel.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-30302e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a18" />
-</a>
-
 ---
 
 ##  GitHub
